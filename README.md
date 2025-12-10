@@ -75,7 +75,7 @@ Lower Sleeper Combined Berth
 Seater
 XPath logic identifies and interacts with these based on seat availability.
 
-🙋‍♂️ Author
+🙋‍♂️ Author  
 Hussain Ahmed Shaik
-📬 View GitHub Profile
-[https://github.com/HussainAhmedShaik]
+
+[![GitHub Icon](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/HussainAhmedShaik)
