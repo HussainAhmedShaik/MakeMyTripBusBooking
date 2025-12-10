@@ -77,5 +77,4 @@ XPath logic identifies and interacts with these based on seat availability.
 
 🙋‍♂️ Author  
 Hussain Ahmed Shaik
-
-[![GitHub Icon](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/HussainAhmedShaik)
+🔗 [View GitHub Profile](https://github.com/HussainAhmedShaik)
