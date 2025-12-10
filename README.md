@@ -1,6 +1,6 @@
-# 🚌 MakeMyTrip Bus Booking Automation
+# 🚌 MakeMyTrip Bus Ticket Booking Automation
 
-Automated testing project for MakeMyTrip Bus Booking functionality using **Selenium WebDriver**, **Cucumber BDD**, **Java**, and **TestNG** in **IntelliJ IDEA**.
+Automated testing project for MakeMyTrip Bus Ticket Booking functionality using **Selenium WebDriver**, **Cucumber BDD**, **Java**, and **TestNG** in **IntelliJ IDEA**.
 
 ## 📌 Repository
 GitHub: [MakeMyTripBusBooking](https://github.com/HussainAhmedShaik/MakeMyTripBusBooking)
@@ -40,6 +40,7 @@ The feature file `BusBookingMMT.feature` includes:
 - Maven
 - IntelliJ IDEA
 - Git
+- 
 ### Steps
 1. Clone the repository:
 
