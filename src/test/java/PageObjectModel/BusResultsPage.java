@@ -178,6 +178,8 @@ public class BusResultsPage extends BaseClass {
     List<String> allOperators = new ArrayList<>();
     int lowestPriceIndex = -1;
 
+
+
     public void printAllBusPricesWithOperators() {
 
 
