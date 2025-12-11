@@ -179,8 +179,7 @@ public class BusResultsPage extends BaseClass {
     int lowestPriceIndex = -1;
 
     public void printAllBusPricesWithOperators() {
-        By priceLocator = By.xpath("//p[@data-testid='fare' and contains(@class,'BusCard_priceText')]");
-        By operatorLocator = By.xpath("//p[@data-testid='operator-name']");
+
 
         List<WebElement> priceElements = driver.findElements(priceLocator);
         List<WebElement> operatorElements = driver.findElements(operatorLocator);
